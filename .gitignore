@@ -1,0 +1,5 @@
+Debug/
+*.cfg
+tmp.sh
+*.*~
+*.txt

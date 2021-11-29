@@ -26,11 +26,6 @@
 	</natures>
 	<linkedResources>
 		<link>
-			<name>Time</name>
-			<type>2</type>
-			<location>C:/Development/Arduino/monitor/.pio/libdeps/bluepill_f103c8/Time</location>
-		</link>
-		<link>
 			<name>framework-arduinoststm32</name>
 			<type>2</type>
 			<location>C:/Users/Eric/.platformio/packages/framework-arduinoststm32</location>

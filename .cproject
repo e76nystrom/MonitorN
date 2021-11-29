@@ -256,9 +256,9 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="examples" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="Time"/>
 						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="framework-arduinoststm32/libraries/Wire/src"/>
 						<entry excluding="printf.cpp|TimerThree.cpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="monitor"/>
+						<entry excluding="examples" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="stm32f103/Time"/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>

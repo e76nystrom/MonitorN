@@ -180,6 +180,6 @@ C:/Development/Arduino/monitor/.pio/build/stm32f103/lib318/libLiquidCrystal_I2C.
 C:/Development/Arduino/monitor/.pio/build/stm32f103/lib3fb/libEEPROM.a
 C:/Development/Arduino/monitor/.pio/build/stm32f103/lib283/libSoftwareSerial.a
 C:/Development/Arduino/monitor/.pio/build/stm32f103/libFrameworkArduino.a
-c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtbegin.o
-c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crti.o
-c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/9.2.1/thumb/v7-m/nofp/crtn.o
+c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtbegin.o
+c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crti.o
+c:/users/eric/.platformio/packages/toolchain-gccarmnoneeabi/lib/gcc/arm-none-eabi/10.3.1/thumb/v7-m/nofp/crtn.o

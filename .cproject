@@ -196,6 +196,7 @@
 									<listOptionValue builtIn="false" value="STM32F103xB"/>
 									<listOptionValue builtIn="false" value="STM32F1xx"/>
 									<listOptionValue builtIn="false" value="VARIANT_H=\&quot;variant_PILL_F103Cx.h\&quot;"/>
+									<listOptionValue builtIn="false" value="STM32MON"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings.539621272" name="Other warning flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings" useByScannerDiscovery="true" value="-Wno-unused-parameter" valueType="string"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting.1373693521" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting" useByScannerDiscovery="false" value="true" valueType="boolean"/>

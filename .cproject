@@ -117,19 +117,18 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/STM32F1xx}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/variants/STM32F1xx/F103R(8-B)T}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-cmsis/CMSIS/Core/Include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-cmsis/CMSIS/DSP/Include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Development\Arduino\monitor\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/Monitor/framework-arduinoststm32/variants/STM32F1xx/F103C8T_F103CB(T-U)}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/DallasTemperature}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/OneWire}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/Time}&quot;"/>
 								</option>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1013529358" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="true" valueType="definedSymbols">
-									<listOptionValue builtIn="false" value="ARDUINO_ARCH_STM32"/>
-									<listOptionValue builtIn="false" value="ARDUINO_BULEPILL_F103C8"/>
+									<listOptionValue builtIn="false" value="ARDUINO_NUCLEO_F103RB"/>
 									<listOptionValue builtIn="false" value="ARDUINO=10808"/>
 									<listOptionValue builtIn="false" value="BOARD_NAME=&quot;BLUEPILL_F103C8&quot;"/>
 									<listOptionValue builtIn="false" value="HAL_UART_MODULE_ENABLED"/>
@@ -138,7 +137,8 @@
 									<listOptionValue builtIn="false" value="STM32F1"/>
 									<listOptionValue builtIn="false" value="STM32F103xB"/>
 									<listOptionValue builtIn="false" value="STM32F1xx"/>
-									<listOptionValue builtIn="false" value="VARIANT_H=&quot;variant_PILL_F103Cx.h&quot;"/>
+									<listOptionValue builtIn="false" value="VARIANT_H=\&quot;variant_NUCLEO_F103RB.h\&quot;"/>
+									<listOptionValue builtIn="false" value="STM32F103xB"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting.1065811102" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.asmlisting" useByScannerDiscovery="false" value="true" valueType="boolean"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps.1831248504" name="Save temporary files (--save-temps Use with caution!)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.savetemps" useByScannerDiscovery="false" value="true" valueType="boolean"/>
@@ -168,12 +168,12 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/Middlewares/ST/STM32_USB_Device_Library/Core/Src}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/system/STM32F1xx}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-arduinoststm32/variants/STM32F1xx/F103R(8-B)T}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-cmsis/CMSIS/Core/Include}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/framework-cmsis/CMSIS/DSP/Include}&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Development\Arduino\monitor\include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/Monitor/framework-arduinoststm32/variants/STM32F1xx/F103C8T_F103CB(T-U)}&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Development\EclipseCPP\MonitorCPP\include&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/DallasTemperature}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/OneWire}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/stm32f103/Time}&quot;"/>
@@ -186,7 +186,7 @@
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics.1818522762" name="Do not use thread-safe statics (-fno-threadsafe-statics)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.nothreadsafestatics" useByScannerDiscovery="true" value="true" valueType="boolean"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs.1124157801" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.defs" useByScannerDiscovery="true" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="ARDUINO_ARCH_STM32"/>
-									<listOptionValue builtIn="false" value="ARDUINO_BULEPILL_F103C8"/>
+									<listOptionValue builtIn="false" value="ARDUINO_NUCLEO_F103RB"/>
 									<listOptionValue builtIn="false" value="ARDUINO=10808"/>
 									<listOptionValue builtIn="false" value="BOARD_NAME=&quot;BLUEPILL_F103C8&quot;"/>
 									<listOptionValue builtIn="false" value="HAL_UART_MODULE_ENABLED"/>
@@ -195,8 +195,9 @@
 									<listOptionValue builtIn="false" value="STM32F1"/>
 									<listOptionValue builtIn="false" value="STM32F103xB"/>
 									<listOptionValue builtIn="false" value="STM32F1xx"/>
-									<listOptionValue builtIn="false" value="VARIANT_H=\&quot;variant_PILL_F103Cx.h\&quot;"/>
+									<listOptionValue builtIn="false" value="VARIANT_H=\&quot;variant_NUCLEO_F103RB.h\&quot;"/>
 									<listOptionValue builtIn="false" value="STM32MON"/>
+									<listOptionValue builtIn="false" value="STM32F103xB"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings.539621272" name="Other warning flags" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.otherwarnings" useByScannerDiscovery="true" value="-Wno-unused-parameter" valueType="string"/>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting.1373693521" name="Generate assembler listing (-Wa,-adhlns=&quot;$@.lst&quot;)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.cpp.compiler.asmlisting" useByScannerDiscovery="false" value="true" valueType="boolean"/>
@@ -257,8 +258,8 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="framework-arduinoststm32/libraries/Wire/src"/>
-						<entry excluding="printf.cpp|TimerThree.cpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="monitor"/>
+						<entry excluding="Wire.cpp|utility/twi.c" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="framework-arduinoststm32/libraries/Wire/src"/>
+						<entry excluding="stm32f1tim.c|stm32f1gpio.c|stm32f1adc.c|printf.cpp|TimerThree.cpp" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="monitor"/>
 						<entry excluding="examples" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="stm32f103/Time"/>
 					</sourceEntries>
 				</configuration>
@@ -403,7 +404,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="Time/examples|stm32f103/statsdclient|stm32f103/Adafruit BusIO|stm32f103/U8g2|stm32f103/Time/examples|stm32f103/OneWire/examples|stm32f103/LiquidCrystal_I2C/examples|stm32f103/DS3232RTC/examples|stm32f103/DallasTemperature/examples|bluepill_f103c8/LiquidCrystal_I2C/examples|monitor/printf.cpp|bluepill_f103c8/Time/examples|system" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="monitor/stm32f1tim.c|monitor/stm32f1gpio.c|monitor/stm32f1adc.c|framework-arduinoststm32/libraries/Wire/src/Wire.cpp|framework-arduinoststm32/libraries/Wire/src/utility/twi.c|Time/examples|stm32f103/statsdclient|stm32f103/Adafruit BusIO|stm32f103/U8g2|stm32f103/Time/examples|stm32f103/OneWire/examples|stm32f103/LiquidCrystal_I2C/examples|stm32f103/DS3232RTC/examples|stm32f103/DallasTemperature/examples|bluepill_f103c8/LiquidCrystal_I2C/examples|monitor/printf.cpp|bluepill_f103c8/Time/examples|system" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
